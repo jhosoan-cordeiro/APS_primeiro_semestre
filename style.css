@@ -75,3 +75,27 @@ main{
         padding: 15px;
     }
 }
+form > h3{
+    text-align: center;
+    
+}
+.imagns_h3 > img{
+    width: 388px;
+    height: 600px;
+    
+}
+.imagns_h3{
+    display: block;
+    margin: 0px auto;
+
+}
+.fex{
+    display: inline-flex;
+    width: 100%;
+}
+.opicao{
+    position: relative;
+    right: 100px;
+    width: 40%;
+    top: 75px;
+}
