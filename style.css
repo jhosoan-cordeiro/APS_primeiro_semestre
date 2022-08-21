@@ -99,3 +99,49 @@ form > h3{
     width: 40%;
     top: 75px;
 }
+h4{
+    color: #3FAA0F;
+    padding: 20px;
+}
+section{
+    background-color: #C4C4C4;
+    width: 70%;
+    height: 60%;
+    margin: auto;
+    border-radius: 10px;
+    
+}
+.fexdu{
+    display:flex;
+    flex-flow: row wrap;
+  justify-content: space-around;
+}
+.div_Principais_cactos{
+    width: 178px;
+    height: 230px;
+    background-color: #FFFFFF;
+    text-align: center;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
