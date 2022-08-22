@@ -67,7 +67,7 @@ main{
         display: flex;
     }
 }
-
+/* mobie*/
 @media (max-width:  600px){
     .text_main{ 
         max-width: 50%;
