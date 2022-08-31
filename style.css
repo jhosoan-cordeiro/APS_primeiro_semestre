@@ -31,9 +31,10 @@ aside{
     display: block;
     display: flex;
     font-family: 'Oswald';
-font-style: normal;
-font-weight: 400;
-font-size: 22px;
+        
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
     
     
 }
@@ -69,7 +70,6 @@ main > h1{
 }
 
 #wind_img{
-    width:132px;
     height: 107px;
 }
 
@@ -96,9 +96,9 @@ main > h1{
     
 }
 /* mobie*/
-@media (max-width:  600px){
+@media (max-width:  800px){
     .text_main{ 
-        max-width: 50%;
+        max-width: 62%;
         margin: auto;
         padding: 15px;
     }
