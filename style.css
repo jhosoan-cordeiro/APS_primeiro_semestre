@@ -139,15 +139,15 @@ form > h3{
     width: 100%;
 }
 .opicao{
-    position: relative;
-    right: 100px;
-    width: 40%;
-    top: 75px;
+    width: 350px;
+   margin-right: auto;
 }
 h4{
     color: #3FAA0F;
     padding: 20px;
 }
+
+
 section{
     background-color: #C4C4C4;
     width: 70%;
@@ -170,7 +170,7 @@ section{
     border-radius: 15px;
 }
 /*footer*/
-footer{
+/*footer{
    background-color: #111111; 
    color: wheat     ;
    display: flex;
@@ -181,7 +181,7 @@ footer{
     /*background-color: #3FAA0F;*/
     
     width: 100%;
-}
+/*}
 h5{
     text-align: center;
 }
@@ -206,7 +206,7 @@ h5{
     left: 50px;
     margin: 20px;
     color: #3FAA0F;
-}
+}*/
 
 
 
