@@ -83,7 +83,6 @@ main > h1{
     .gestao_de_imagens{
         display: flex;
     }
-    
    
 }
 @media (max-width:950px) {
@@ -91,6 +90,13 @@ main > h1{
         display: none;
     }h4{
         font-size: 35px;
+    }
+    
+    #imagns_h3 {
+        display:none;
+    }
+    .fex > .opicao{
+      margin: 0px auto;    
     }
     
     
@@ -103,9 +109,7 @@ main > h1{
         padding: 15px;
     }
 }
-form{
-    margin: 20px;
-}
+
 form > h3{
     text-align: center;
     font-family: 'Bebas Neue';
@@ -137,11 +141,12 @@ form > h3{
 }
 .fex{
     display: inline-flex;
-    width: 100%;
+    text-align: justify;
 }
 .opicao{
+
     width: 350px;
-   margin-right: auto;
+    margin-right: auto;
 }
 h4{
     color: #3FAA0F;
@@ -154,6 +159,11 @@ font-style: normal;
 
 font-size: 45px;
 line-height: 40px;
+
+    width: 50%;
+}
+h4{
+    color: #3FAA0F;
 }
 
 
