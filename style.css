@@ -89,10 +89,10 @@ main > h1{
 @media (max-width:950px) {
     .imagns_h3 > img{
         display: none;
+    }h4{
+        font-size: 35px;
     }
-    .opicao{
-        
-    }
+    
     
 }
 /* mobie*/
@@ -180,7 +180,7 @@ section{
     cursor: pointer;
 }
 /*footer*/
-/*footer{
+footer{
    background-color: #111111; 
    color: wheat     ;
    display: flex;
@@ -190,33 +190,26 @@ section{
 .folder{
     /*background-color: #3FAA0F;*/
     
-    width: 100%;
-/*}
+    
+}
 h5{
-    text-align: center;
 }
 .icone{
- text-align: center;
+ 
 }
 .contados{
-    margin-left: 200px;
+ 
 }
 
 #rede_social{
-    width:45px ;
-    height: 38px;
-    margin: 16px;
+ 
 }
 .termos{
     padding: 5px;
 }
 .termos > a{
-    position: relative;
-    top: 25px;
-    left: 50px;
-    margin: 20px;
-    color: #3FAA0F;
-}*/
+ 
+}
 
 
 
