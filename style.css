@@ -196,29 +196,22 @@ footer{
    display: flex;
    margin-top: 30px;
 }
-
 .folder{
-    /*background-color: #3FAA0F;*/
-    
-    
+    width: 100%     ;
 }
-h5{
+.folder > h5{
+text-align: center;
+font-family: 'Raleway', sans-serif;
+font-size: 28px;
+
 }
 .icone{
- 
+    text-align: center;
 }
-.contados{
- 
-}
+.rede_social{
+    width: 53px;
+    height: 38px;
 
-#rede_social{
- 
-}
-.termos{
-    padding: 5px;
-}
-.termos > a{
- 
 }
 
 
