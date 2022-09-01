@@ -95,8 +95,9 @@ main > h1{
     #imagns_h3 {
         display:none;
     }
+    
     .fex > .opicao{
-      margin: 0px auto;    
+      margin:  auto;    
     }
     
     
@@ -142,6 +143,7 @@ form > h3{
 .fex{
     display: inline-flex;
     text-align: justify;
+    width: 100%;
 }
 .opicao{
 
@@ -200,21 +202,37 @@ footer{
     width: 100%     ;
 }
 .folder > h5{
-text-align: center;
-font-family: 'Raleway', sans-serif;
-font-size: 28px;
-
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
 }
 .icone{
     text-align: center;
+        
 }
 .rede_social{
     width: 53px;
     height: 38px;
-
+    
 }
-
-
+.icone > img{
+    margin: 20px;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
 
 
