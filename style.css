@@ -199,7 +199,7 @@ footer{
     
 }
 .icone > img{
-    margin: 13px;
+    margin: 7px;
 }
 .contados{
     display: flex;
@@ -209,9 +209,9 @@ a{
     color: #3FAA0F;
     margin: 10px;
 } 
-#logo_foolder{
 
-}
+
+
 
 
     
@@ -238,7 +238,7 @@ a{
     }
     #logo_foolder{
      max-width: 40%;
-     max-height: 30%;
+     max-height: 00%;
     }
 }   
     
