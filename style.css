@@ -19,7 +19,8 @@ font-size: 22px;
    margin: auto;
     
 }
-.movendo > p {
+.movendo > a {
+    color: #C4C4C4;
     margin: 10px;   
     cursor: pointer;
 }
@@ -203,7 +204,7 @@ footer{
     display: flex;
 }       
   
-a{
+.termos > a{
     color: #3FAA0F;
     margin: 10px;
 } 
