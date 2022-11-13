@@ -3,7 +3,6 @@ body{
     margin: 0;
     padding: 0;
 }
-
 header{
 background-color: black;
 color: white;
@@ -25,8 +24,6 @@ font-size: 22px;
     margin: auto;
     border-radius:25px ;
 }
-
-
 .movendo{
     display: inline-flex;
    margin: auto;
@@ -44,12 +41,10 @@ aside{
     height: 400px;
     display: block;
     display: flex;
-    font-family: 'Oswald';
-        
+    font-family: 'Oswald';        
     font-style: normal;
     font-weight: 400;
-    font-size: 22px;
-    
+    font-size: 22px;   
     
 }
 .outros{
@@ -60,7 +55,6 @@ aside{
    margin-top: 30px;
    
 }
-
 .visita{
     background-color: #3FAA0F;
     width: 157px;
@@ -87,31 +81,8 @@ main > h1{
 }
 .text_main{
     text-align: justify;
-    text-indent: 20px;
-  
+    text-indent: 20px;  
 }
-
-@media (min-width:  800px){
-    .text_main{ 
-        max-width: 50%;
-        margin: auto;
-        padding: 10px;
-    }
-    .gestao_de_imagens{
-        display: flex;
-    }
-   
-}
-
-/* mobie*/
-@media (max-width:  800px){
-    .text_main{ 
-        max-width: 62%;
-        margin: auto;
-        padding: 15px;
-    }
-}
-
 form > h3{
     text-align: center;
     font-family: 'kaushan Script serif';
@@ -122,7 +93,6 @@ form > h3{
     height: 600px;
     
 }
-
 .text_comoPlantar > b{
     font-family: 'Raleway'; 
     font-size:25px;
@@ -158,20 +128,17 @@ h4{
 h4{
     color: #3FAA0F;
 }
-
-
 section{
     background-color: #C4C4C4;
     width: 70%;
     height: 60%;
     margin: auto;
-    border-radius: 10px;
-    
+    border-radius: 10px;    
 }
 .fexdu{
     display:flex;
     flex-flow: row wrap;
-  justify-content: space-around;
+   justify-content: space-around;
 }
 .div_Principais_cactos{
     width: 178px;
@@ -203,26 +170,27 @@ footer{
 }
 .rede_social{
     width: 53px;
-    height: 38px;
-    
+    height: 38px;    
 }
 .icone > img{
     margin: 7px;
 }
 .contados{
     display: flex;
-}       
-  
-.termos > a{
+}    
+ .termos > a{
     color: #3FAA0F;
     margin: 10px;
 } 
 
-
-
-
-
-    
+/* mobie*/
+@media (max-width:  800px){
+    .text_main{ 
+        max-width: 62%;
+        margin: auto;
+        padding: 15px;
+    }
+}    
 @media (max-width:950px) {
     .imagns_h3 > img{
         display: none;
@@ -248,5 +216,15 @@ footer{
      max-width: 40%;
      max-height: 00%;
     }
-}     
+}   
+@media (min-width:  800px){
+    .text_main{ 
+        max-width: 50%;
+        margin: auto;
+        padding: 10px;
+    }
+    .gestao_de_imagens{
+        display: flex;
+    }
    
+}
