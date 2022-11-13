@@ -78,16 +78,18 @@ main{
    
 }
 main > h1{
-    font-family: 'Bebas Neue';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 46px;
+    font-family: 'kaushan Script serif';
+    font-size: 3em;
 }
 
 #wind_img{
     height: 107px;
 }
-
+.text_main{
+    text-align: justify;
+    text-indent: 20px;
+  
+}
 
 @media (min-width:  800px){
     .text_main{ 
@@ -112,10 +114,8 @@ main > h1{
 
 form > h3{
     text-align: center;
-    font-family: 'Bebas Neue';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 46px;
+    font-family: 'kaushan Script serif';
+    font-size: 3em;
 }
 .imagns_h3 > img{
     width: 388px;
